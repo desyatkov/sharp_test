@@ -1,0 +1,11 @@
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.deps.json
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.json
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.dev.json
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfo.cs
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll
+/Users/sergey.desyatkov/Desktop/prod/ConsoleApp1/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb
